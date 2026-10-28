@@ -3,7 +3,6 @@
  * Praktikum 5 — Percobaan 1: Pengujian Koneksi PDO MySQL
  * File: test_koneksi.php
  */
-
 require_once __DIR__ . '/config/database.php';
 
 try {
